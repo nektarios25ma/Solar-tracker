@@ -33,7 +33,7 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 9. Βίδα 4mm με μήκος 9cm =€0.10
 
 10.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
-ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€49,00
+ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€49,00.
 
 SOFTWARE
 
