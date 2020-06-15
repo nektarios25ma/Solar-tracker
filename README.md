@@ -1,4 +1,5 @@
 ΗΛΙΑΤΟΡΕΣ
+
 ΓΕΛ ΚΙΣΑΜΟΥ-ΕΠΑΛ ΚΙΣΑΜΟΥ
 
 ΛΙΓΑ ΛΟΓΙΑ ΓΙΑ ΤΗΝ ΠΕΡΙΠΕΤΕΙΑ ΤΗΣ ΚΑΤΑΣΚΕΥΗΣ ΜΑΣ
@@ -75,6 +76,7 @@ SOFTWARE
 LINK ΠΟΥ ΒΟΗΘΗΣΕ ΣΤΗΝ ΒΑΘΜΟΝΟΜΗΣΗ-CALIBRATION SERVO : https://dronebotworkshop.com/analog-feedback-servo-motor/
 
 ΓΙΑ ΤΟΝ ΔΙΑΓΩΝΙΣΜΟ ΤΗΣ ΕΛΛΑΚ ΠΑΡΑΠΕΜΠΩ ΣΤΟ GITHUB ΤΗΣ ΜΑΘΗΤΡΙΑΣ ΑΘΗΝΑΣ ΑΘΑΝΑΣΑΚΗ ΑΠΟ ΤΟΝ ΟΠΟΙΟ ΑΝΤΕΓΡΑΨΑ ΤΑ ΑΡΧΕΙΑ: https://github.com/Ampirath/Solar-Tracker
+
 VIDEO LINK:  https://www.youtube.com/watch?v=TfUpVVRkGPY
 ΜΑΘΗΤΕΣ : ΑΘΗΝΑ ΑΘΑΝΑΣΑΚΗ,ΣΤΕΛΛΑ ΑΜΠΟΥΧΑΝΗ ΚΑΙ ΣΠΥΡΟΣ ΕΙΡΗΝΑΚΗΣ-ΓΕΛ ΚΙΣΑΜΟΥ,ΕΠΑΛ ΚΙΣΑΜΟΥ
 
