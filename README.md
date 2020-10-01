@@ -1,7 +1,7 @@
 ΗΛΙΑΤΟΡΕΣ
 
 ΓΕΛ ΚΙΣΑΜΟΥ-ΕΠΑΛ ΚΙΣΑΜΟΥ
-
+(branch master τα άλλα branch είναι υπο εξέλιξη και δεν αφορούν προς το παρόν τον διαγωνισμό της ΕΛΛΑΚ)
 ΛΙΓΑ ΛΟΓΙΑ ΓΙΑ ΤΗΝ ΠΕΡΙΠΕΤΕΙΑ ΤΗΣ ΚΑΤΑΣΚΕΥΗΣ ΜΑΣ
 Η αναζήτηση άρχισε με σκοπό τη κατασκευή ενός solar tracker όπως του συναδέλφου https://www.thingiverse.com/thing:53321
 ή https://www.instructables.com/id/Arduino-Solar-Tracker/ .
