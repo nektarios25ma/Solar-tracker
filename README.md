@@ -22,12 +22,13 @@
 10.solar panel https://grobotronics.com/solar-panel-3.5w-165x135mm.html =12,9 euro
 ΕΝΔΕΙΚΤΙΚΟ  ΣΥΝΟΛΟ: 57 ευρώ
 
+Ψάχνοντας έναν εναλλακτικό τρόπο μέτρησης των γωνιών συνδέσαμε-κολλήσαμε κάτω από το πάνελ έναν αισθητήρα mpu9050 sparfun και το συνδέσαμε με ένα διπλανό arduino -https://www.hellasdigital.gr/electronics/components/boards/sparkfun-imu-breakout-mpu-9250-sen-13762/ =€14,95 - όπου το εκπληκτικό είναι αφού προσαρμόσαμε την βιβλιοθήκη (περιγράφεται στο master2 ) που βρήκαμε στο τόπο(συντεταγμένες) εγκαθίδρυσης της κατασκευής μας με ένα καλιμπράρισμα (το 8 που κάνουμε και στο κινητό μας ) βρίσκει με την αυτόματα τις κλίσεις σε σχέση με τον πραγματικό βορά . Δηλαδή και λάθος να τοποθετήσουμε την συσκευή μας - κανονικά  πρέπει να χει προσανατολισμό βορά νότου όπως περιγράφω στις οδηγίες χρήσης master branch- βρίσκει τις σωστές γωνίες που σχηματίζει ο Ήλιος.
 
 ΒΙΒΛΙΟΓΡΑΦΙΚΕΣ ΑΝΑΦΟΡΕΣ
 1) https://en.wikipedia.org/wiki/Sun_path
 2)https://en.wikipedia.org/wiki/Position_of_the_Sun
 3)https://www.youtube.com/watch?v=lJVEubm9Ja8
-4)https://www.instructables.com/id/Arduino-Solar-Tracker/
+
 
 Ο ΔΕΥΤΕΡΟΣ ΑΙΣΘΗΤΗΡΑΣ ΣΥΝΔΕΜΕΝΟΣ ΣΤΟ MEGA ΧΡΗΣΙΜΟΠΟΙΕΙ ΤΗΝ ΒΙΒΛΙΟΘΗΚΗ:
 I2C device class (I2Cdev) demonstration Arduino sketch for MPU9250 class using DMP (MotionApps v2.0)
