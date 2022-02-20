@@ -70,7 +70,7 @@ void setup() {
     println(Serial.list());
 
     // get the first available port (use EITHER this OR the specific port code below)
-    String portName = Serial.list()[0];
+   String portName = Serial.list()[0];
     
     // get a specific serial port (use EITHER this OR the first-available code above)
     //String portName = "dev/ttyACM0";
@@ -78,22 +78,22 @@ void setup() {
     
     // open the serial port 230400
    // port = new Serial(this, portName, 115200);
-   port = new Serial(this, "COM6",115200 );
+   port = new Serial(this,"COM6",230400);
     // send single character to trigger DMP init/start
     // (expected by MPU6050_DMP6 example Arduino sketch)
-    port.write('r');
+   // port.write('r');
   bg = loadImage("Beautiful_landscape.jpg");   //Beautiful_landscape.JPG
  // bg2 = loadImage("Solar_Panel.jpg");
 }
 
 void draw() {
   background(bg);
-    if (millis() - interval > 1000) {
+   // if (millis() - interval > 1000) {
         // resend single character to trigger DMP init/start
         // in case the MPU is halted/reset while applet is running
-        port.write('r');
-        interval = millis();
-    }
+  //      port.write('r');
+   //     interval = millis();
+  //  }
     
     // black background
   //---------->  background(0);
